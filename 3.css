@@ -22,5 +22,8 @@ p {
 <h1>My First CSS Example</h1>
 <p>This is a paragraph.</p>
 
+<p id="para1">Hello World!</p>
+<p>This paragraph is not affected by the style.</p>
+
 </body>
 </html>

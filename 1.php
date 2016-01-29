@@ -5,7 +5,9 @@
 
 <body>  
 
-<form method="POST" action="procesa_datos.php"> 
+<form method="POST" action="1.php"> 
+
+    <p>Introduce los datos personales para complementar el formulario</p>
     <p>Nombre: <input type="text" name="T1" size="20"></p> 
     <p>Apellidos: <input type="text" name="T2" size="20"></p>
 	<p>Edad: <input type="text" name="T2" size="20"></p>
