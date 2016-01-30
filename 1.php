@@ -22,7 +22,7 @@
 <head>  
 <title>Formulario.</title>  
 </head>  
-
+/* sss*/
 <body>  
 
 <?php 
