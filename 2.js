@@ -12,7 +12,7 @@ Click me to display Date and Time.</button>
 <script>
 // Change heading:
 document.getElementById("myH").innerHTML = "My First Page";
-// Change paragraph
+// Change paragraph:
 document.getElementById("myP").innerHTML = "My first paragraph.";
 </script>
 
