@@ -15,7 +15,7 @@ document.getElementById("myH").innerHTML = "My First Page";
 // Change paragraph:
 document.getElementById("myP").innerHTML = "My first paragraph.";
 </script>
-------------
+
 </body>
 </html> 
 
