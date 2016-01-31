@@ -10,7 +10,7 @@ Click me to display Date and Time.</button>
 
 <p id="demo"></p>
 <script>
-// Change heading:=====
+// Change heading:====
 
 document.getElementById("myH").innerHTML = "My First Page";
 // Change paragraph:
