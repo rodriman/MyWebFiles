@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-    background-color: #d0e4fe;;;;;
+    background-color: #d0e4fe
 }
 
 h1 {
@@ -24,6 +24,6 @@ p {
 
 <p id="para1">Hello World!</p>
 <p>This paragraph is not affected by the style.</p>
-**
+
 </body>
 </html>
